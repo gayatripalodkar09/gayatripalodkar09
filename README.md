@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there ,
+# I'm GAYATRI 👋
 
+## About Me
+- **Name:** GAYATRI GAJANAN PALODKAR
+- **Branch:** INTEGRATED MTECH IN AI
+- **Year:** 1st Year B.Tech
+
+## What I Hope to Learn
+I hope to learn programming, problem-solving, and how to build useful projects using digital tools and technology.
 <!--
 **gayatripalodkar09/gayatripalodkar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
